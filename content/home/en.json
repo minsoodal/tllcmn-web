@@ -1,0 +1,110 @@
+{
+  "hero": {
+    "eyebrow": "Welcome",
+    "title": "A Gospel-Centered Home for the Twin Cities Korean Community",
+    "subtitle": "Join us as we worship, grow, and serve together for the renewal of Minnesota and the next generation.",
+    "primaryCta": { "label": "Plan Your Sunday", "href": "/en/events" },
+    "secondaryCta": { "label": "Get Connected", "href": "/en/connect" }
+  },
+  "serviceTimes": {
+    "title": "Sunday Rhythm",
+    "description": "Find a space to worship and grow with us each week.",
+    "items": [
+      { "name": "Korean Worship", "time": "Sundays 9:30 AM", "description": "Main gathering in Korean" },
+      { "name": "Family Worship", "time": "Sundays 11:30 AM", "description": "Bilingual service with children & youth" },
+      { "name": "Midweek Prayer", "time": "Wednesdays 7:00 PM", "description": "Prayer and worship night" }
+    ]
+  },
+  "quickLinks": [
+    {
+      "label": "Watch Live",
+      "description": "Join the livestream from anywhere in the world.",
+      "href": "https://www.youtube.com/@tllcmn"
+    },
+    {
+      "label": "Download Bulletin",
+      "description": "Follow along with weekly announcements and liturgy.",
+      "href": "/en/events"
+    },
+    {
+      "label": "Share a Prayer Request",
+      "description": "Let us know how we can pray with you this week.",
+      "href": "/en/connect"
+    }
+  ],
+  "sermonHighlight": {
+    "title": "This Week's Message",
+    "messageTitle": "The Blessing of Baptism",
+    "speaker": "Lead Pastor Seongeun Kim",
+    "date": "2025-09-14",
+    "description": "Matthew 3:7-17",
+    "watchLabel": "Watch Sermon",
+    "watchHref": "https://www.youtube.com/live/uk04iUP0teQ?si=qcLhcV6hRcH6e8Pd"
+  },
+  "ministries": {
+    "title": "Ministries for Every Season",
+    "description": "From early childhood to adults, we disciple and equip each generation to live on mission.",
+    "items": [
+      {
+        "name": "NextGen (EM & Youth)",
+        "description": "Students discover identity and purpose rooted in the gospel.",
+        "href": "/en/ministries"
+      },
+      {
+        "name": "Newcomers & Pathways",
+        "description": "Take your next step with welcome lunches and discipleship cohorts.",
+        "href": "/en/connect"
+      },
+      {
+        "name": "Missions & Local Outreach",
+        "description": "Partner with us to bless the city and nations through prayer and action.",
+        "href": "/en/ministries"
+      }
+    ]
+  },
+  "events": {
+    "title": "Upcoming Gatherings",
+    "description": "Mark your calendar and participate in what God is doing among us.",
+    "seeAllLabel": "See all events",
+    "seeAllHref": "/en/events",
+    "items": [
+      {
+        "title": "Fall Bible Revival",
+        "date": "2024-10-05",
+        "time": "Saturday 5:00 PM",
+        "description": "A regional worship night with guest speakers.",
+        "href": "/en/events"
+      },
+      {
+        "title": "Newcomers Lunch",
+        "date": "2024-10-13",
+        "time": "Sunday 1:00 PM",
+        "description": "Meet pastors, hear our story, and find your place.",
+        "href": "/en/connect"
+      },
+      {
+        "title": "Winter Missions Orientation",
+        "date": "2024-11-03",
+        "time": "Sunday 2:30 PM",
+        "description": "Discover teams, training, and prayer points for the upcoming trip.",
+        "href": "/en/ministries"
+      }
+    ]
+  },
+  "location": {
+    "title": "Gather With Us",
+    "description": "Experience warm hospitality and vibrant worship in the heart of the Twin Cities.",
+    "addressLines": ["3920 Victoria St N", "Shoreview, MN 55126"],
+    "mapLabel": "Open in Google Maps",
+    "mapHref": "https://maps.google.com?q=3920+Victoria+St+N+Shoreview+MN+55126",
+    "mapPlaceholder": "Google Maps preview coming soon."
+  },
+  "newsletter": {
+    "title": "Subscribe for Updates",
+    "description": "Weekly stories, upcoming events, and prayer prompts in your inbox.",
+    "cta": {
+      "label": "Join the Mailing List",
+      "href": "mailto:news@tllcmn.org?subject=Newsletter%20Subscription"
+    }
+  }
+}

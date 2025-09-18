@@ -1,0 +1,110 @@
+{
+  "hero": {
+    "eyebrow": "환영합니다",
+    "title": "주님의 사랑 안에서 함께하는 TLLC 미네소타 교회",
+    "subtitle": "예배와 말씀, 공동체를 통해 하나님 나라의 비전을 함께 꿈꿉니다.",
+    "primaryCta": { "label": "주일예배 안내", "href": "/ko/events" },
+    "secondaryCta": { "label": "새가족 등록", "href": "/ko/connect" }
+  },
+  "serviceTimes": {
+    "title": "주일 예배 및 모임",
+    "description": "함께 예배하고 교제할 수 있는 시간을 확인하세요.",
+    "items": [
+      { "name": "주일 1부 예배", "time": "주일 오전 9:30", "description": "한어 예배 (본당)" },
+      { "name": "주일 2부 예배", "time": "주일 오전 11:30", "description": "연합 예배 및 주일학교" },
+      { "name": "수요 기도모임", "time": "수요일 오후 7:00", "description": "찬양과 중보기도" }
+    ]
+  },
+  "quickLinks": [
+    {
+      "label": "주일 생방송",
+      "description": "YouTube 라이브로 실시간 예배에 참여하세요.",
+      "href": "https://www.youtube.com/@tllcmn"
+    },
+    {
+      "label": "주보 내려받기",
+      "description": "이번 주 예배 순서와 공동체 소식을 확인하세요.",
+      "href": "/ko/events"
+    },
+    {
+      "label": "기도 제목 나눔",
+      "description": "서로를 위해 중보하며 함께 기도합니다.",
+      "href": "/ko/connect"
+    }
+  ],
+  "sermonHighlight": {
+    "title": "이번 주 메시지",
+    "messageTitle": "세례를 받고 그 축복을 받아 누립시다",
+    "speaker": "담임목사 김성은",
+    "date": "2025-09-14",
+    "description": "성경봉독: 마태복음 3장 7절 -17절",
+    "watchLabel": "설교 영상 보기",
+    "watchHref": "https://www.youtube.com/live/uk04iUP0teQ?si=qcLhcV6hRcH6e8Pd"
+  },
+  "ministries": {
+    "title": "함께 자라는 사역",
+    "description": "모든 세대가 말씀과 사랑 안에서 성장하도록 다양한 사역이 준비되어 있습니다.",
+    "items": [
+      {
+        "name": "다음세대(EM & Youth)",
+        "description": "아이와 청년들이 복음 안에서 꿈을 발견하도록 돕습니다.",
+        "href": "/ko/ministries"
+      },
+      {
+        "name": "새가족 & 양육",
+        "description": "교회에 처음 오신 분들을 환영하고 새로운 믿음의 여정을 동행합니다.",
+        "href": "/ko/connect"
+      },
+      {
+        "name": "선교 & 지역 섬김",
+        "description": "지역과 열방을 향해 사랑을 흘려보내는 사역을 함께합니다.",
+        "href": "/ko/ministries"
+      }
+    ]
+  },
+  "events": {
+    "title": "다가오는 일정",
+    "description": "예배와 교육, 봉사 일정에 함께 참여하세요.",
+    "seeAllLabel": "전체 일정 보기",
+    "seeAllHref": "/ko/events",
+    "items": [
+      {
+        "title": "가을 말씀집회",
+        "date": "2024-10-05",
+        "time": "토요일 오후 5:00",
+        "description": "지역 연합 교회와 함께하는 특별 집회",
+        "href": "/ko/events"
+      },
+      {
+        "title": "새가족 환영 만남",
+        "date": "2024-10-13",
+        "time": "주일 오후 1:00",
+        "description": "점심과 교제, 교회 소개가 준비됩니다.",
+        "href": "/ko/connect"
+      },
+      {
+        "title": "겨울 단기선교 오리엔테이션",
+        "date": "2024-11-03",
+        "time": "주일 오후 2:30",
+        "description": "선교 팀과 일정 소개, 기도제목 나눔",
+        "href": "/ko/ministries"
+      }
+    ]
+  },
+  "location": {
+    "title": "예배 장소",
+    "description": "도심과 가까운 교회에서 따뜻한 환대와 예배를 경험하세요.",
+    "addressLines": ["3920 Victoria St N", "Shoreview, MN 55126"],
+    "mapLabel": "Google 지도에서 보기",
+    "mapHref": "https://maps.google.com?q=3920+Victoria+St+N+Shoreview+MN+55126",
+    "mapPlaceholder": "구글 지도 미리보기 준비 중입니다."
+  },
+  "newsletter": {
+    "title": "주간 소식지 구독",
+    "description": "예배 안내와 공동체 소식을 이메일로 받아보세요.",
+    "cta": {
+      "label": "이메일 구독 신청",
+      "href": "mailto:news@tllcmn.org?subject=뉴스레터%20신청"
+    }
+  }
+}

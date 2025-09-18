@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# True Light of the Lord Church Website Prototype
+**미네소타 주님의 참빛교회**
 
-## Getting Started
+This is a website prototype I developed for **True Light of the Lord Church** as a volunteer project. The goal of this prototype is to provide a modern, user-friendly online presence for the church, making it easier for members and visitors to access information about services, events, and community activities.
 
-First, run the development server:
+## Features
+- Home page with church information and announcements
+- Event calendar for church activities
+- Contact page with location and messaging form
+- Multi-language support (English & Korean)
+- Mobile-responsive design
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tech Stack
+- Next.js, TypeScript, Tailwind-CSS
+- Vibe Coded with GPT-5-Codex
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Purpose
+This project is a volunteer initiative to help the church establish a web presence. It is meant as a prototype, and further development may be done based on feedback from church leadership and members. 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+[Korean] 우리 미네소타 주님의 참빛교회의 사역에 작은 도움이 되기를 바라며 이 웹사이트를 제작했습니다. 
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+-----
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Thank you for checking out this project! 🙏
