@@ -81,7 +81,7 @@ export const siteCopy: Record<Lang, SiteCopy> = {
         // { label: "Facebook", href: "https://facebook.com" },
         // { label: "KakaoTalk 채널", href: "https://open.kakao.com" },
       ],
-      copyright: "© " + new Date().getFullYear() + " TLLC 미네소타 교회. All rights reserved.",
+      copyright: "© " + new Date().getFullYear() + " 미네소타 주님의 참빛교회. All rights reserved.",
     },
   },
   en: {
@@ -125,7 +125,7 @@ export const siteCopy: Record<Lang, SiteCopy> = {
         // { label: "KakaoTalk 채널", href: "https://open.kakao.com" },
       ],
       copyright:
-        "© " + new Date().getFullYear() + " TLLC Minnesota Church. All rights reserved.",
+        "© " + new Date().getFullYear() + " True Light of the Lord Church. All rights reserved.",
     },
   },
 };

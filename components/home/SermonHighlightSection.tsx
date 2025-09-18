@@ -32,11 +32,11 @@ export default function SermonHighlightSection({ sermon, lang }: SermonHighlight
         </div>
         <Link
           href={sermon.watchHref}
-          className="inline-flex items-center justify-center rounded-full bg-white px-6 py-3 text-sm font-semibold text-slate-900 transition hover:bg-slate-200"
+          className="inline-flex items-center justify-center rounded-full border border-slate-300 px-6 py-3 text-sm font-semibold text-sm font-semibold text-strong transition hover:bg-slate-300 hover:text-soft"
           target="_blank"
         >
           {sermon.watchLabel}
-        </Link>
+      </Link>
       </div>
       <div className="absolute -right-24 -top-10 h-56 w-56 rounded-full bg-emerald-300/30 blur-3xl" />
       <div className="absolute -bottom-20 left-10 h-48 w-48 rounded-full bg-white/10 blur-3xl" />

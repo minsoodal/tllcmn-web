@@ -11,11 +11,11 @@ export default function LocationSection({ location }: LocationSectionProps) {
     <section className="overflow-hidden rounded-3xl border border-slate-200 bg-white shadow-sm">
       <div className="grid gap-0 md:grid-cols-2">
         <div className="p-8 sm:p-10">
-          <p className="text-xs font-semibold uppercase tracking-[0.3em] text-slate-500">
+          <p className="text-xs font-semibold uppercase tracking-[0.3em] text-strong">
             {location.title}
           </p>
-          <h2 className="mt-4 text-3xl font-semibold text-slate-900">{location.description}</h2>
-          <div className="mt-6 space-y-2 text-sm text-slate-600">
+          <h2 className="mt-4 text-3xl font-semibold text-slate-900 text-muted">{location.description}</h2>
+          <div className="mt-6 space-y-2 text-sm text-muted">
             {location.addressLines.map((line) => (
               <p key={line}>{line}</p>
             ))}

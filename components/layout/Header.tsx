@@ -17,7 +17,7 @@ export default function Header({ lang }: HeaderProps) {
       <div className="mx-auto flex h-20 max-w-6xl items-center justify-between px-6">
         <Link
           href={`/${lang}`}
-          className="flex items-center gap-2 text-lg font-semibold tracking-tight text-slate-900"
+          className="flex items-center gap-2 text-lg font-semibold tracking-tight text-strong"
         >
           <span className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-slate-300 bg-white text-sm font-semibold uppercase">
             TLLC
