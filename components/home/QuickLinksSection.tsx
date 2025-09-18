@@ -15,10 +15,10 @@ export default function QuickLinksSection({ quickLinks }: QuickLinksSectionProps
           href={link.href}
           className="group rounded-3xl border border-slate-200 bg-white p-6 shadow-sm transition hover:-translate-y-1 hover:border-slate-300 hover:shadow-md"
         >
-          <p className="text-sm font-semibold uppercase tracking-[0.2em] text-slate-500">
+          <p className="text-sm font-semibold uppercase tracking-[0.2em] text-soft">
             {link.label}
           </p>
-          <p className="mt-3 text-sm text-slate-600">{link.description}</p>
+          <p className="mt-3 text-sm text-muted">{link.description}</p>
           <span
             aria-hidden
             className="mt-4 inline-flex h-8 w-8 items-center justify-center rounded-full bg-slate-900 text-sm font-semibold text-white transition group-hover:translate-x-1"
